@@ -1,0 +1,33 @@
+scenario,subRegion,region,param,class,x,value,units
+scenario,Africa_Eastern,Africa_Eastern,param,class,2100,564.3166239,units
+scenario,Africa_Northern,Africa_Northern,param,class,2100,393.5246599,units
+scenario,Africa_Southern,Africa_Southern,param,class,2100,500.6542341,units
+scenario,Africa_Western,Africa_Western,param,class,2100,1333.545848,units
+scenario,Argentina,Argentina,param,class,2100,77.41513479,units
+scenario,Australia_NZ,Australia_NZ,param,class,2100,161.583409,units
+scenario,Brazil,Brazil,param,class,2100,228.3044412,units
+scenario,Canada,Canada,param,class,2100,177.5992654,units
+scenario,Central America and Caribbean,Central America and Caribbean,param,class,2100,129.322618,units
+scenario,Central Asia,Central Asia,param,class,2100,167.123637,units
+scenario,China,China,param,class,2100,1972.702477,units
+scenario,Colombia,Colombia,param,class,2100,81.71912577,units
+scenario,EU-12,EU-12,param,class,2100,175.6724303,units
+scenario,EU-15,EU-15,param,class,2100,845.6088923,units
+scenario,Europe_Eastern,Europe_Eastern,param,class,2100,77.7536006,units
+scenario,Europe_Non_EU,Europe_Non_EU,param,class,2100,199.2279518,units
+scenario,European Free Trade Association,European Free Trade Association,param,class,2100,24.12006687,units
+scenario,India,India,param,class,2100,2527.845469,units
+scenario,Indonesia,Indonesia,param,class,2100,395.5839932,units
+scenario,Japan,Japan,param,class,2100,166.7513162,units
+scenario,Mexico,Mexico,param,class,2100,278.0002971,units
+scenario,Middle East,Middle East,param,class,2100,992.0339129,units
+scenario,Pakistan,Pakistan,param,class,2100,295.0624497,units
+scenario,Russia,Russia,param,class,2100,384.0802712,units
+scenario,South Africa,South Africa,param,class,2100,160.0096603,units
+scenario,South America_Northern,South America_Northern,param,class,2100,43.19140205,units
+scenario,South America_Southern,South America_Southern,param,class,2100,159.1727473,units
+scenario,South Asia,South Asia,param,class,2100,331.1993445,units
+scenario,South Korea,South Korea,param,class,2100,87.13395756,units
+scenario,Southeast Asia,Southeast Asia,param,class,2100,921.4459993,units
+scenario,Taiwan,Taiwan,param,class,2100,64.60464955,units
+scenario,USA,USA,param,class,2100,1575.154927,units
