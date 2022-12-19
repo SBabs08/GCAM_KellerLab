@@ -1,0 +1,129 @@
+scenario,subRegion,region,param,class,x,value,units
+scenario,Africa_Eastern,Africa_Eastern,param,class,2025,363312,units
+scenario,Africa_Northern,Africa_Northern,param,class,2025,207480,units
+scenario,Africa_Southern,Africa_Southern,param,class,2025,199719,units
+scenario,Africa_Western,Africa_Western,param,class,2025,599748,units
+scenario,Argentina,Argentina,param,class,2025,46040,units
+scenario,Australia_NZ,Australia_NZ,param,class,2025,32663,units
+scenario,Brazil,Brazil,param,class,2025,218835,units
+scenario,Canada,Canada,param,class,2025,39827,units
+scenario,Central America and Caribbean,Central America and Caribbean,param,class,2025,94236,units
+scenario,Central Asia,Central Asia,param,class,2025,94287,units
+scenario,China,China,param,class,2025,1437680,units
+scenario,Colombia,Colombia,param,class,2025,52898,units
+scenario,EU-12,EU-12,param,class,2025,99871,units
+scenario,EU-15,EU-15,param,class,2025,417109,units
+scenario,Europe_Eastern,Europe_Eastern,param,class,2025,55458,units
+scenario,Europe_Non_EU,Europe_Non_EU,param,class,2025,108334,units
+scenario,European Free Trade Association,European Free Trade Association,param,class,2025,14911,units
+scenario,India,India,param,class,2025,1464250,units
+scenario,Indonesia,Indonesia,param,class,2025,277911,units
+scenario,Japan,Japan,param,class,2025,124682,units
+scenario,Mexico,Mexico,param,class,2025,133883,units
+scenario,Middle East,Middle East,param,class,2025,285215,units
+scenario,Pakistan,Pakistan,param,class,2025,235246,units
+scenario,Russia,Russia,param,class,2025,143195,units
+scenario,South Africa,South Africa,param,class,2025,59978,units
+scenario,South America_Northern,South America_Northern,param,class,2025,35594,units
+scenario,South America_Southern,South America_Southern,param,class,2025,93150,units
+scenario,South Asia,South Asia,param,class,2025,272593,units
+scenario,South Korea,South Korea,param,class,2025,51586,units
+scenario,Southeast Asia,Southeast Asia,param,class,2025,451150,units
+scenario,Taiwan,Taiwan,param,class,2025,23557,units
+scenario,USA,USA,param,class,2025,349942,units
+scenario,Africa_Eastern,Africa_Eastern,param,class,2050,529402,units
+scenario,Africa_Northern,Africa_Northern,param,class,2050,243731,units
+scenario,Africa_Southern,Africa_Southern,param,class,2050,297214,units
+scenario,Africa_Western,Africa_Western,param,class,2050,924076,units
+scenario,Argentina,Argentina,param,class,2050,50587,units
+scenario,Australia_NZ,Australia_NZ,param,class,2050,41667,units
+scenario,Brazil,Brazil,param,class,2050,233377,units
+scenario,Canada,Canada,param,class,2050,47808,units
+scenario,Central America and Caribbean,Central America and Caribbean,param,class,2050,105763,units
+scenario,Central Asia,Central Asia,param,class,2050,99981,units
+scenario,China,China,param,class,2050,1313220,units
+scenario,Colombia,Colombia,param,class,2050,61553,units
+scenario,EU-12,EU-12,param,class,2050,93190,units
+scenario,EU-15,EU-15,param,class,2050,440600,units
+scenario,Europe_Eastern,Europe_Eastern,param,class,2050,50429,units
+scenario,Europe_Non_EU,Europe_Non_EU,param,class,2050,119289,units
+scenario,European Free Trade Association,European Free Trade Association,param,class,2050,17270,units
+scenario,India,India,param,class,2050,1736740,units
+scenario,Indonesia,Indonesia,param,class,2050,295514,units
+scenario,Japan,Japan,param,class,2050,110228,units
+scenario,Mexico,Mexico,param,class,2050,151057,units
+scenario,Middle East,Middle East,param,class,2050,378689,units
+scenario,Pakistan,Pakistan,param,class,2050,307069,units
+scenario,Russia,Russia,param,class,2050,138932,units
+scenario,South Africa,South Africa,param,class,2050,66519,units
+scenario,South America_Northern,South America_Northern,param,class,2050,42082,units
+scenario,South America_Southern,South America_Southern,param,class,2050,102982,units
+scenario,South Asia,South Asia,param,class,2050,333066,units
+scenario,South Korea,South Korea,param,class,2050,47994,units
+scenario,Southeast Asia,Southeast Asia,param,class,2050,499174,units
+scenario,Taiwan,Taiwan,param,class,2050,23557,units
+scenario,USA,USA,param,class,2050,402689,units
+scenario,Africa_Eastern,Africa_Eastern,param,class,2075,639201,units
+scenario,Africa_Northern,Africa_Northern,param,class,2075,249970,units
+scenario,Africa_Southern,Africa_Southern,param,class,2075,367099,units
+scenario,Africa_Western,Africa_Western,param,class,2075,1174800,units
+scenario,Argentina,Argentina,param,class,2075,50559,units
+scenario,Australia_NZ,Australia_NZ,param,class,2075,48016,units
+scenario,Brazil,Brazil,param,class,2075,218264,units
+scenario,Canada,Canada,param,class,2075,53899,units
+scenario,Central America and Caribbean,Central America and Caribbean,param,class,2075,105638,units
+scenario,Central Asia,Central Asia,param,class,2075,95122,units
+scenario,China,China,param,class,2075,1046470,units
+scenario,Colombia,Colombia,param,class,2075,62972,units
+scenario,EU-12,EU-12,param,class,2075,82569,units
+scenario,EU-15,EU-15,param,class,2075,444778,units
+scenario,Europe_Eastern,Europe_Eastern,param,class,2075,46230,units
+scenario,Europe_Non_EU,Europe_Non_EU,param,class,2075,117659,units
+scenario,European Free Trade Association,European Free Trade Association,param,class,2075,18786,units
+scenario,India,India,param,class,2075,1771810,units
+scenario,Indonesia,Indonesia,param,class,2075,272274,units
+scenario,Japan,Japan,param,class,2075,93496,units
+scenario,Mexico,Mexico,param,class,2075,151541,units
+scenario,Middle East,Middle East,param,class,2075,422733,units
+scenario,Pakistan,Pakistan,param,class,2075,340620,units
+scenario,Russia,Russia,param,class,2075,134301,units
+scenario,South Africa,South Africa,param,class,2075,67095,units
+scenario,South America_Northern,South America_Northern,param,class,2075,43147,units
+scenario,South America_Southern,South America_Southern,param,class,2075,100995,units
+scenario,South Asia,South Asia,param,class,2075,350761,units
+scenario,South Korea,South Korea,param,class,2075,39131,units
+scenario,Southeast Asia,Southeast Asia,param,class,2075,487847,units
+scenario,Taiwan,Taiwan,param,class,2075,23557,units
+scenario,USA,USA,param,class,2075,443787,units
+scenario,Africa_Eastern,Africa_Eastern,param,class,2100,681323,units
+scenario,Africa_Northern,Africa_Northern,param,class,2100,237829,units
+scenario,Africa_Southern,Africa_Southern,param,class,2100,400909,units
+scenario,Africa_Western,Africa_Western,param,class,2100,1309180,units
+scenario,Argentina,Argentina,param,class,2100,47716,units
+scenario,Australia_NZ,Australia_NZ,param,class,2100,48725,units
+scenario,Brazil,Brazil,param,class,2100,189641,units
+scenario,Canada,Canada,param,class,2100,54679,units
+scenario,Central America and Caribbean,Central America and Caribbean,param,class,2100,99983,units
+scenario,Central Asia,Central Asia,param,class,2100,86771,units
+scenario,China,China,param,class,2100,800756,units
+scenario,Colombia,Colombia,param,class,2100,59180,units
+scenario,EU-12,EU-12,param,class,2100,71775,units
+scenario,EU-15,EU-15,param,class,2100,430661,units
+scenario,Europe_Eastern,Europe_Eastern,param,class,2100,41002,units
+scenario,Europe_Non_EU,Europe_Non_EU,param,class,2100,108150,units
+scenario,European Free Trade Association,European Free Trade Association,param,class,2100,18847,units
+scenario,India,India,param,class,2100,1605660,units
+scenario,Indonesia,Indonesia,param,class,2100,233841,units
+scenario,Japan,Japan,param,class,2100,76059,units
+scenario,Mexico,Mexico,param,class,2100,145314,units
+scenario,Middle East,Middle East,param,class,2100,422123,units
+scenario,Pakistan,Pakistan,param,class,2100,342540,units
+scenario,Russia,Russia,param,class,2100,124611,units
+scenario,South Africa,South Africa,param,class,2100,61707,units
+scenario,South America_Northern,South America_Northern,param,class,2100,40070,units
+scenario,South America_Southern,South America_Southern,param,class,2100,93650,units
+scenario,South Asia,South Asia,param,class,2100,340319,units
+scenario,South Korea,South Korea,param,class,2100,31222,units
+scenario,Southeast Asia,Southeast Asia,param,class,2100,444858,units
+scenario,Taiwan,Taiwan,param,class,2100,23557,units
+scenario,USA,USA,param,class,2100,457531,units
