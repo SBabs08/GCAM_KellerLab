@@ -3,7 +3,7 @@ This repo provides the workflow to reporduce GCAM V6.0 output data and create fi
 installating, running and debugging GCAM V6.0 on a Linux work environment, as well as post processing the GCAM output using rgcam.
 For more information of this repo and its usage please conetat Sitara Baboolal (sitara.d.baboolal@dartmouth.edu)
 
-##GCAM Model Overview
+## GCAM Model Overview
 GCAM (developed by The Joint Global Change Research Institute (JGCRI)) is an open source model that represents the behavior of and complex interactions between five major systems – energy, water, land, climate, and the economy – at global and regional scales. The model simulates changes in these systems for decades into the future. It is a dynamic-recursive model with technology-rich representation of tthese 5 systems linked to a climate model that can be used to explor climate change mittigation policies including carbon taxes, carbon trading, regulations and accelerated deployment of energy technology. 
 
 The GCAM model operates from 1990 to 2100 at 5 year intervals. It can be used to examine projections of future energy supply and demands and resuluting
