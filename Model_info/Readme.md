@@ -2,6 +2,8 @@
 This directory provides the installation guide to install and compile the binary GCAM source code on  any Linux based environment using the GCAM_InstallationGuide_V6_0.pdf.
 The nessesary pre requities nedded for this instalation are listed in the requierments.txt.
 
+GCAM releases can be found at - https://github.com/JGCRI/gcam-core/releases
+
 
 ## Additional Helpful Links 
 
