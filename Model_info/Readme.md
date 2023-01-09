@@ -3,7 +3,7 @@ This directory provides the installation guide to install and compile the binary
 The nessesary pre requities nedded for this instalation are listed in the requierments.txt.
 
 
-## Additional Helpful Links for Installing and Exicuting GCAM
+## Additional Helpful Links 
 
 1. GCAM User Documentation : http://jgcri.github.io/gcam-doc/
  
