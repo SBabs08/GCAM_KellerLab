@@ -27,18 +27,18 @@ Calvin, K., Patel, P., Clarke, L., Asrar, G., Bond-Lamberty, B., Cui, R. Y., Di 
 For the purpose of reproducibility, this repository contains references to the data, software and code used to process the GCAM output data and create figures and tables.
 
 ### Model_info
-1.Documentation for installing GCAM V6.0 on a Linux environment
+1. Documentation for installing GCAM V6.0 on a Linux environment
 
-2.Installation zip, and additional supporting Install files needed to compile GCAM
+2. Installation zip, and additional supporting Install files needed to compile GCAM
 
-3.Tutorials for running and debugging GCAM reference case
+3. Tutorials for running and debugging GCAM reference case
 
 ### WorkFlow
-1.Example maps and tables processed from GCAM reference case (CO2 Emission by Region for 2025, 2050, 2075 and 2100).  
+1. Example maps and tables processed from GCAM reference case (CO2 Emission by Region for 2025, 2050, 2075 and 2100).  
 
-2.GCAM query files used for this example 
+2. GCAM query files used for this example 
 
-3.Scripts for extracting paramenters form raw GCAM data, 
+3. Scripts for extracting paramenters form raw GCAM data, 
 
 4. Workflow for recreating results
 
